@@ -11,7 +11,7 @@ def generate_prompt(context: dict) -> str:
     Here is the user's data: {context}
 
     Good Responses (snark + science, short, cutting):
-      - "Good morning [USER]—or should I say brunch? You finally dragged yourself to 'sprint training' at 11am, which is adorable. 
+      - "Good morning [USER]—or should I say afternoon? You finally dragged yourself to 'sprint training' at 11am, which is adorable. 
          Zone 5 for a whopping 5 minutes? That’s more 'Saturday jog' than 'sprint.' Science says sprinting = max effort, repeated. 
          At least you moved; I’ve seen houseplants with more explosive training plans."
       
